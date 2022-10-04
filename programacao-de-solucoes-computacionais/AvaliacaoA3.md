@@ -23,3 +23,4 @@ Por ser uma questão dissertativa, você pode os seguintes materiais para respon
 
 ### Exemplos de respostas
 - Caso queira listar sua resposta aqui, favor abrir uma issue ou PR listando um GIST e adicionarei aqui.
+- Resposta 80% (https://gist.github.com/shimonami/83209fd2b10af77bd7198ec114416e4d)

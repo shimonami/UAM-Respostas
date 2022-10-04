@@ -6,5 +6,4 @@ Por ser uma questão dissertativa, você pode os seguintes materiais para respon
 - https://devbook.com.br/diferenca-entre-objeto-e-classe/
 
 ### Exemplos de respostas
-- Caso queira listar sua resposta aqui, favor abrir uma issue ou PR listando um
-GIST e adicionarei aqui.
+- Resposta 80% (https://gist.github.com/shimonami/23893e4f3634b1a12b07a8ae6c267206)
