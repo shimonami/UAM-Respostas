@@ -1,8 +1,3 @@
-# DISCLAIMER
-As respostas a seguir servem como referência e não estão devidamente corrigidas.
-Existem outras perguntas aparecendo nas provas, favor veriricar o discord caso
-não sejam essas.
-
 ### Questão 1
 Observe o código abaixo, escrito em linguagem de programação Java.
 
@@ -52,7 +47,7 @@ IV. Não existe um melhor modificador de acesso, pois as suas aplicabilidades de
 
 É correto o que se afirma em:
 
-> I, II, III e IV.
+> II, III e IV, apenas.
 
 ### Questão 4
 A compreensão da lógica proposicional é importante para que, ao construir algoritmos e escrever programas de computador, um programador seja capaz de estruturar soluções simples e objetivas, que sejam ágeis e de fácil compreensão. Para isso, compreender alguns conceitos de lógica é essencial.
@@ -81,7 +76,7 @@ II. Como as suas partes são divididas de forma sequencial na memória, não é 
 
 A respeito dessas asserções, assinale a opção correta.
 
-> A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+> As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
 
 ### Questão 6
 
@@ -131,7 +126,7 @@ IV. Em diversos casos a composição pode ser mais bem empregada que a herança,
 ### Questão 9
 Um algoritmo básico de sequência simples pode ser estruturado em três etapas básicas: entrada, processamento e saída. Cada etapa apresenta suas particularidades e lógicas de estruturação. Sobre a estruturação de um algoritmo de sequência simples, assinale a alternativa correta.
 
-> O processamento de dados realiza operações matemáticas, contudo, não permite o armazenamento de dados.
+> O processamento de dados pode realizar operações de soma, subtração, multiplicação e divisão, além de repetir diversas dessas operações em sequência.
 
 ### Questão 10
 Analise o código abaixo e a estruturação da classe Carro:
@@ -176,7 +171,7 @@ IV. Comandos de entrada de dados podem ser realizados internamente nas estrutura
 
 É correto o que se afirma em:
 
-> I, II e IV, apenas.
+> I e IV, apenas.
 
 ### Questão 12
 
@@ -207,8 +202,7 @@ II. A pilha não segue o padrão da fila, FIFO (first in, first out), onde o pri
 
 A respeito dessas asserções, assinale a opção correta.
 
-> As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
-
+> As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I
 
 ### Questão 14
 A sobrecarga de métodos é um tipo de polimorfismo, pois, do ponto de vista do código-cliente, um mesmo método pode ser chamado de formas diferentes, embora saibamos que, na verdade, trata-se de vários métodos com o mesmo nome.
